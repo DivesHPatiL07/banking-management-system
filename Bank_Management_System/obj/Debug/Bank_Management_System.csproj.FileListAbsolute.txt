@@ -1,0 +1,28 @@
+C:\Users\Kalipish\Desktop\Divesh\Bank_Management_System\Bank_Management_System\bin\Debug\Bank_Management_System.exe
+C:\Users\Kalipish\Desktop\Divesh\Bank_Management_System\Bank_Management_System\bin\Debug\Bank_Management_System.exe.config
+C:\Users\Kalipish\Desktop\Divesh\Bank_Management_System\Bank_Management_System\obj\Debug\Bank_Management_System.csproj.AssemblyReference.cache
+C:\Users\Kalipish\Desktop\Divesh\Bank_Management_System\Bank_Management_System\obj\Debug\Bank_Management_System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kalipish\Desktop\Divesh\Bank_Management_System\Bank_Management_System\obj\Debug\Bank_Management_System.adminPage.resources
+C:\Users\Kalipish\Desktop\Divesh\Bank_Management_System\Bank_Management_System\obj\Debug\Bank_Management_System.Home_Page1.resources
+C:\Users\Kalipish\Desktop\Divesh\Bank_Management_System\Bank_Management_System\obj\Debug\Bank_Management_System.loginPage.resources
+C:\Users\Kalipish\Desktop\Divesh\Bank_Management_System\Bank_Management_System\obj\Debug\Bank_Management_System.Properties.Resources.resources
+C:\Users\Kalipish\Desktop\Divesh\Bank_Management_System\Bank_Management_System\obj\Debug\Bank_Management_System.csproj.GenerateResource.cache
+C:\Users\Kalipish\Desktop\Divesh\Bank_Management_System\Bank_Management_System\obj\Debug\Bank_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\Kalipish\Desktop\Divesh\Bank_Management_System\Bank_Management_System\obj\Debug\Bank_Management_System.exe
+C:\Users\Kalipish\Desktop\Divesh\Bank_Management_System\Bank_Management_System\obj\Debug\Bank_Management_System.pdb
+C:\Users\Kalipish\Desktop\Divesh\Bank_Management_System\Bank_Management_System\bin\Debug\Bank_Management_System.pdb
+C:\Users\Kalipish\Desktop\Divesh\Bank_Management_System\Bank_Management_System\obj\Debug\Bank_Management_System.createAcForm.resources
+C:\Users\Kalipish\Desktop\Bank management system\Bank_Management_System\Bank_Management_System\bin\Debug\Bank_Management_System.exe.config
+C:\Users\Kalipish\Desktop\Bank management system\Bank_Management_System\Bank_Management_System\bin\Debug\Bank_Management_System.exe
+C:\Users\Kalipish\Desktop\Bank management system\Bank_Management_System\Bank_Management_System\bin\Debug\Bank_Management_System.pdb
+C:\Users\Kalipish\Desktop\Bank management system\Bank_Management_System\Bank_Management_System\obj\Debug\Bank_Management_System.csproj.AssemblyReference.cache
+C:\Users\Kalipish\Desktop\Bank management system\Bank_Management_System\Bank_Management_System\obj\Debug\Bank_Management_System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kalipish\Desktop\Bank management system\Bank_Management_System\Bank_Management_System\obj\Debug\Bank_Management_System.adminPage.resources
+C:\Users\Kalipish\Desktop\Bank management system\Bank_Management_System\Bank_Management_System\obj\Debug\Bank_Management_System.createAcForm.resources
+C:\Users\Kalipish\Desktop\Bank management system\Bank_Management_System\Bank_Management_System\obj\Debug\Bank_Management_System.Home_Page1.resources
+C:\Users\Kalipish\Desktop\Bank management system\Bank_Management_System\Bank_Management_System\obj\Debug\Bank_Management_System.loginPage.resources
+C:\Users\Kalipish\Desktop\Bank management system\Bank_Management_System\Bank_Management_System\obj\Debug\Bank_Management_System.Properties.Resources.resources
+C:\Users\Kalipish\Desktop\Bank management system\Bank_Management_System\Bank_Management_System\obj\Debug\Bank_Management_System.csproj.GenerateResource.cache
+C:\Users\Kalipish\Desktop\Bank management system\Bank_Management_System\Bank_Management_System\obj\Debug\Bank_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\Kalipish\Desktop\Bank management system\Bank_Management_System\Bank_Management_System\obj\Debug\Bank_Management_System.exe
+C:\Users\Kalipish\Desktop\Bank management system\Bank_Management_System\Bank_Management_System\obj\Debug\Bank_Management_System.pdb
